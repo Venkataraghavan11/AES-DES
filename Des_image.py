@@ -1,7 +1,3 @@
-# Install pycryptodome from terminal 
-# pip install pycryptodome
-
-# Then import DES3 for Encryption and md5 for key
 from Crypto.Cipher import DES3
 from hashlib import md5
 
