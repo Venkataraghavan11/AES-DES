@@ -1,3 +1,3 @@
 # AES-DES
-Project for Data Encryption AES and DES Algorithm using python
+Project for Data Encryption by AES and DES Algorithm using python
 # Name : Venkata Raghavan R.
